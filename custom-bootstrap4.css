@@ -1254,7 +1254,7 @@ h8 {
 	font-family: 'Garamond','Cormorant Garamond', 'Georgia', serif;
 	line-height: 155%;
 	font-style: normal;
-	font-size: 1.52em;
+	font-size: 1.35em;
 	letter-spacing: 90%;
 	padding-top: 10px;
 	padding-bottom: 10px;
@@ -1386,6 +1386,20 @@ h18 {
 	font-size: 25px;
 	font-weight: 300;
 	line-height: 2px;
+	
+}
+
+h19 {
+	font-family: 'HenriDidot', 'Didot', 'Cormorant Garamond', serif;
+	font-weight: 400;
+	font-size: 6em;
+	text-transform: uppercase;
+	letter-spacing: 15px;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	line-height: 100px;
+	color: black;
 	
 }
 
